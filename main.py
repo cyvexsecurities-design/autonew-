@@ -13,8 +13,8 @@ API_HASH = os.getenv("API_HASH")
 SESSION_STRING = os.getenv("SESSION_STRING")
 
 # --- Channels ---
-SOURCE_CHANNEL = "@Signals_Pumps_Free"
-TARGET_CHANNEL = "@aixauusdbtcusd_trade"
+SOURCE_CHANNEL = "@goldmasterclub"
+TARGET_CHANNEL = "@forthgoldtrader"
 
 # --- Replacement ---
 REPLACE_WITH = "@aimanagementteambot"
